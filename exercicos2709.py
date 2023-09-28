@@ -40,22 +40,40 @@
 #Exercicios04
 #distancia em km/h
 
-distancia = float(input("Digite a distância em quilômetros: "))
-vm = float(input("Digite a velocidade média em km/h: "))
+#distancia = float(input("Digite a distância em quilômetros: "))
+#vm = float(input("Digite a velocidade média em km/h: "))
 
 
-tempo = distancia / vm
-horas = int(tempo)
+#tempo = distancia / vm
+#horas = int(tempo)
 
-restominutos = (tempo - horas)
-minutos = restominutos * 60
-minutos = int(minutos)
+#restominutos = (tempo - horas)
+#minutos = restominutos * 60
+#minutos = int(minutos)
 
-restosegundo = (60*(minutos-(60*restominutos)))
-restosegundo = int(restosegundo)
+#restosegundo = (60*(minutos-(60*restominutos)))
+#restosegundo = int(restosegundo)
 
 
-print(tempo)
-print("Tempo estimado de viagem:",horas," horas",minutos," minutos",restosegundo,"segundos.")
+#print(tempo)
+#print("Tempo estimado de viagem:",horas," horas",minutos," minutos",restosegundo,"segundos.")
 
 #inverso em tempo de distancia
+
+#distancia = float(input("Digite a distância em quilômetros: "))
+#tempo = float(input("Digite a velocidade média em km/h: "))
+
+
+#vm = distancia / tempo
+#horas = int(vm)
+
+#restominutos = (vm - horas)
+#minutos = restominutos * 60
+#minutos = int(minutos)
+
+#restosegundo = (60*(minutos-(60*restominutos)))
+#restosegundo = int(restosegundo)
+
+
+#print("Velocidade media:",vm,"Km/h")
+#print("Tempo estimado de viagem:",horas," horas",minutos," minutos",restosegundo,"segundos.")
