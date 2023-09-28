@@ -43,7 +43,6 @@
 #distancia = float(input("Digite a distância em quilômetros: "))
 #vm = float(input("Digite a velocidade média em km/h: "))
 
-
 #tempo = distancia / vm
 #horas = int(tempo)
 
