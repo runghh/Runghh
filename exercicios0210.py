@@ -52,3 +52,17 @@ while True:
     else:
         print("ESCOLHA INVALIDA")
         print("----------------------------------------------")
+
+
+        def atualizar_produto(Produtos,nome,valor,)
+    for i in range(len('nome')):
+        if nome = produto:
+            Produtos[produto]['nome'] = nome
+            Produtos[produto]['Valorinicial'] = valor
+            Produtos[produto]['Valordecusto'] = valordecusto
+            Produtos[produto]['Lucro'] = lucro
+            Produtos[produto]['imp1'] = imp1
+            Produtos[produto]['imp2'] = imp2
+            Produtos[produto]['imp3'] = imp3
+            Produtos[produto]['Valorvenda'] = valordevenda
+            Produtos[produto]['qnt'] = qnt
